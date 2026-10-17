@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mne-tools/mne-python/commit/8f498626a53704a6a96bcd8a11e22cbd8866efa5",
       "git:hexsha": "8f498626a53704a6a96bcd8a11e22cbd8866efa5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T05:14:16.477954+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mne-tools/mne-python/commit/e493aa6b7028b95684b889ceddad3806a3693dc1",

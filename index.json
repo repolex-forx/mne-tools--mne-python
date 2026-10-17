@@ -1,0 +1,11 @@
+{
+  "org": "mne-tools",
+  "repo": "mne-python",
+  "versions": [
+    {
+      "commit": "8f498626a53704a6a96bcd8a11e22cbd8866efa5",
+      "tag": "",
+      "parsed_at": "2026-10-17T05:14:16.478979+00:00"
+    }
+  ]
+}
